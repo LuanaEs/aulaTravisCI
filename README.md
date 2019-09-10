@@ -1,2 +1,3 @@
 # aulaTravisCI
-Exercicio aula
+Exercicio aula <br>
+Luana Gonçalves Espíndola <br>
